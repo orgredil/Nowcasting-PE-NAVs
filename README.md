@@ -1,5 +1,5 @@
 # Nowcasting-PE-NAVs
-This code demonstrates a PE fund-specific State Space Model developed in "Nowcasting Net Asset Value: The Case of Private Equity" by G.Brown, E.Ghysels, O.Gredil and published on SSRN https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3507873.
+This code demonstrates a PE fund-specific State Space Model developed in "Nowcasting Net Asset Value: The Case of Private Equity" by G.Brown, E.Ghysels, O.Gredil and accepted for publication in The Review of Financial Studies.  (An earlier version is available on SSRN https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3507873).
 The code reproduces the estimates for a hypothetical buyout fund that is plotted in Figure 1 of the paper. 
 
 Instructions for the Matlab version:
